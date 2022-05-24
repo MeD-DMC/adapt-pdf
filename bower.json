@@ -1,0 +1,20 @@
+{
+    "name": "esdc-downloader",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/MeD-DMC/adapt-pdf"
+    },
+    "framework": ">=2.0.18",
+    "version": "0.0.12",
+    "homepage": "https://github.com/MeD-DMC/adapt-pdf",
+    "displayName": "Course to PDF",
+    "extension": "coursePDF",
+    "description": "download course as pdf",
+    "main": "/js/esdc-downloader.js",
+    "keywords": [
+        "adapt-plugin",
+        "adapt-extension"
+    ],
+    "license": "",
+    "targetAttribute": "_coursePDF"
+}
