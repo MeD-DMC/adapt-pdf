@@ -1,3 +1,3 @@
-# adapt-homeButton
+# adapt-pdf
 
-Add home button to course navigation. Allows hide or redirect of home button. Allows hide of back button.
+Adds a button to download a PDF version of an Adapt course
